@@ -51,8 +51,8 @@ public class MainActivity extends AppCompatActivity {
 
         ImageView imgv[] = new ImageView[9];
         int imgvId[] = {R.id.imv0, R.id.imv1, R.id.imv2, R.id.imv3, R.id.imv4, R.id.imv5, R.id.imv6, R.id.imv7, R.id.imv8};
-        final String imgName[] = {"독서하는 소녀", "꽃장식 모자 소녀", "부채를 든 소녀", "이레느깡 단 베르양",
-                "잠자는 소녀", "테라스의 두 자매", "피아노 레슨", "피아노 앞의 소녀들", "해변에서"};
+        final String imgName[] = {"웅남", "어바웃", "오토오", "서부전선",
+                "미니언즈", "오펜하이머", "범죄도시", "피아노 앞의 소녀들", "엘리멘탈"};
 
         for (int i = 0; i < imgv.length; i++) {
             final int i
